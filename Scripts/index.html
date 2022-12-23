@@ -48,7 +48,10 @@
 
       <div id="buttons">
         <button>Set time position to 0 seconds</button>
-        <button>Set time position to 5 seconds</button>
+        <a
+          href="javascript:(function (d) {var aud = d.getElementById('myAudio');aud.currentTime=47;aud.play();})(document)"
+          >Set time position to 5 seconds</a
+        >
         <button>Set time position to 03:30 minutes</button>
         <button>Set time position to 11:05 minutes</button>
       </div>

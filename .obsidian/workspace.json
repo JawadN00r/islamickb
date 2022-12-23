@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "21583a75a09d4248",
+        "id": "0e1a98008cafa5ef",
         "type": "tabs",
         "children": [
           {
-            "id": "3b0735a6046f7dea",
+            "id": "07e4a4444b549633",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 395.5
+    "width": 395.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -156,10 +157,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a00567425de9b3dc",
+  "active": "07e4a4444b549633",
   "lastOpenFiles": [
-    "Recording 20221223143219.webm.md",
+    "undefined.md",
     "Test.md",
+    "Recording 20221223143219.webm.md",
     "Recording 20221223143219.webm",
     "Message.md",
     "[.md"
