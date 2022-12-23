@@ -4,11 +4,9 @@
     src="http://docs.google.com/uc?export=open&id=1adJ1wjFLY4wZRhz63kXix60cX4j8b1gq" type="audio/mp3" controls>
 </audio> 
 
+ #নামায #রোজা #ঘুম 
 
-[00:16](http://docs.google.com/uc?export=open&id=1adJ1wjFLY4wZRhz63kXix60cX4j8b1gq#t=16.001185) world
-
-
-<a href="javascript:(function (d) {var aud = d.getElementById('myAudio');aud.currentTime=47;aud.play();})(document)" >00:47</a>  : দিনে নফল নামাজে উচ্চসরে কেরাত পড়া যাবে কিনা
+<a href="javascript:(function (d) {var aud = d.getElementById('myAudio');aud.currentTime=47;aud.play();})(document)" >00:47</a>  : দিনে নফল [[নামাজে]] উচ্চসরে কেরাত পড়া যাবে কিনা
 <a href="javascript:(function (d) {var aud = d.getElementById('myAudio');aud.currentTime=107;aud.play();})(document)" >01:47</a>  : ফজরে ঘুম থেকে উঠতে কি করতে হবে
 <a href="javascript:(function (d) {var aud = d.getElementById('myAudio');aud.currentTime=227;aud.play();})(document)" >03:47</a>  : অনেক ভাই বলেন রাসুল(স) কে সৃষ্টি না করলে নাকি সারা জাহান সৃষ্টি করা হত না। কথাটি কি ঠিক ?
 <a href="javascript:(function (d) {var aud = d.getElementById('myAudio');aud.currentTime=287;aud.play();})(document)" >04:47</a>  : ভারতে বর্তমানে মুসলমানদের উপর যে নির্যাতন হচ্ছে … আমাদের করনীয় কি
