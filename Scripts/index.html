@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width,height=device-height,initial-scale=1"
+    />
+
+    <title>untitled document</title>
+
+    <link rel="stylesheet" href="screen.css" media="screen" />
+
+    <style media="screen">
+      body {
+        background-color: #f0f0f0;
+        font: 1em/150% verdana, arial, helvetica, sans-serif;
+        text-align: center;
+      }
+      #container {
+        display: inline-block;
+        width: 98%;
+        max-width: 20em;
+        padding: 1em;
+        border: 0.062em solid #999;
+        border-radius: 0.5em;
+        box-sizing: border-box;
+        background-color: #fff;
+        box-shadow: 0.4em 0.4em 0.4em #999;
+      }
+      #myAudio,
+      #buttons button {
+        width: 96%;
+        margin: 0.25em;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="container">
+      <audio
+        id="myAudio"
+        src="http://docs.google.com/uc?export=open&id=1adJ1wjFLY4wZRhz63kXix60cX4j8b1gq"
+        type="audio/mp3"
+        controls
+      >
+        <p>Your browser does not support HTML5 audio :(</p>
+      </audio>
+
+      <div id="buttons">
+        <button>Set time position to 0 seconds</button>
+        <button>Set time position to 5 seconds</button>
+        <button>Set time position to 03:30 minutes</button>
+        <button>Set time position to 11:05 minutes</button>
+      </div>
+    </div>
+
+    <script>
+      (function (d) {
+        "use strict";
+
+        var set = [0, 5, 210, 665];
+        var aud = d.getElementById("myAudio");
+        var but = d.getElementById("buttons").getElementsByTagName("button");
+
+        for (var c = 0; c < but.length; c++) {
+          but[c].addEventListener("click", setCurTime(c), false);
+        }
+
+        function setCurTime(c) {
+          but[c].onclick = function () {
+            aud.currentTime = set[c];
+            aud.play();
+          };
+        }
+      })(document);
+    </script>
+  </body>
+</html>
