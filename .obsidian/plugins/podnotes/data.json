@@ -1,0 +1,83 @@
+{
+  "savedFeeds": {
+    "Waveform: The MKBHD Podcast": {
+      "title": "Waveform: The MKBHD Podcast",
+      "url": "https://feeds.megaphone.fm/STU4418364045",
+      "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4d/a4/99/4da4999a-a63b-e538-f61a-32ab2d706da1/mza_3594290234478964482.jpeg/100x100bb.jpg"
+    }
+  },
+  "podNotes": {},
+  "defaultPlaybackRate": 1,
+  "playedEpisodes": {
+    "Trivia Finale: Who Knows More about Tech?": {
+      "title": "Trivia Finale: Who Knows More about Tech?",
+      "podcastName": "Waveform: The MKBHD Podcast",
+      "time": 89.57969500000002,
+      "duration": 4191.346875,
+      "finished": false
+    },
+    "Paying for Twitter Verification?": {
+      "title": "Paying for Twitter Verification?",
+      "podcastName": "Waveform: The MKBHD Podcast",
+      "time": 44.579695,
+      "duration": 4191.346875,
+      "finished": false
+    }
+  },
+  "favorites": {
+    "icon": "lucide-star",
+    "name": "Favorites",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  },
+  "queue": {
+    "icon": "list-ordered",
+    "name": "Queue",
+    "shouldEpisodeRemoveAfterPlay": true,
+    "shouldRepeat": false,
+    "episodes": [
+      {
+        "title": "Trivia Finale: Who Knows More about Tech?",
+        "streamUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/524GE/traffic.megaphone.fm/VMP7072991420.mp3?updated=1671160574",
+        "url": "https://feeds.megaphone.fm/STU4418364045",
+        "description": "It's trivia time! This is the conclusion of Season 2 of trivia where we hit Marques, Andrew, and David with a ton of different kinds of questions to see who knows the most about technology (and other random things). We'll be back next week with a regular news-filled episode but for now we hope you play along and maybe learn a thing or two!\n\nShop the merch:\nhttps://shop.mkbhd.com\n\nTwitters:\nWaveform: https://twitter.com/wvfrm\nMarques: https://twitter.com/mkbhd\nAndrew: https://twitter.com/andymanganelli\nAdam: https://twitter.com/adamlukas17\nEllis: https://twitter.com/EllisRovin\n\nInstagram:\nhttps://www.instagram.com/wvfrmpodcast/\n\nJoin the Discord:\nhttps://discord.gg/mkbhd\n\nMusic by 20syl:\nhttps://bit.ly/2S53xlC\n\nWaveform is part of the Vox Media Podcast Network.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+        "podcastName": "Waveform: The MKBHD Podcast",
+        "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4d/a4/99/4da4999a-a63b-e538-f61a-32ab2d706da1/mza_3594290234478964482.jpeg/100x100bb.jpg",
+        "episodeDate": "2022-12-16T09:00:00.000Z",
+        "feedUrl": "https://feeds.megaphone.fm/STU4418364045"
+      }
+    ]
+  },
+  "playlists": {},
+  "skipBackwardLength": 15,
+  "skipForwardLength": 15,
+  "currentEpisode": {
+    "title": "Paying for Twitter Verification?",
+    "streamUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/chrt.fm/track/524GE/traffic.megaphone.fm/VMP1528607770.mp3?updated=1667535599",
+    "url": "https://feeds.megaphone.fm/STU4418364045",
+    "description": "There was a lot that happened this week! First, Marques and Andrew discuss the madness that has been going on with Twitter and Elon Musk. Then they talk about the Metaverse before reminiscing about smartphone features that they miss. Lastly, we wrap up with some trivia!\n\nVox survey:\nwww.vox.com/podsurvey\n\nShop the merch:\nhttps://shop.mkbhd.com\n\nLinks:\nWho Cares about the Metaverse video: https://bit.ly/whometaverse\nCasey Newton tweet: https://bit.ly/caseynewtontweet1\n\nTwitters:\nWaveform: https://twitter.com/wvfrm\nMarques: https://twitter.com/mkbhd\nAndrew: https://twitter.com/andymanganelli\nAdam: https://twitter.com/adamlukas17\nEllis: https://twitter.com/EllisRovin\n\nInstagram:\nhttps://www.instagram.com/wvfrmpodcast/\n\nJoin the Discord:\nhttps://discord.gg/mkbhd\n\nMusic by 20syl:\nhttps://bit.ly/2S53xlC\n\nWaveform is part of the Vox Media Podcast Network.\nLearn more about your ad choices. Visit podcastchoices.com/adchoices",
+    "podcastName": "Waveform: The MKBHD Podcast",
+    "artworkUrl": "https://is4-ssl.mzstatic.com/image/thumb/Podcasts116/v4/4d/a4/99/4da4999a-a63b-e538-f61a-32ab2d706da1/mza_3594290234478964482.jpeg/100x100bb.jpg",
+    "episodeDate": "2022-11-04T08:00:00.000Z",
+    "feedUrl": "https://feeds.megaphone.fm/STU4418364045"
+  },
+  "timestamp": {
+    "template": "\n- {{linktime}} "
+  },
+  "note": {
+    "path": "",
+    "template": ""
+  },
+  "download": {
+    "path": ""
+  },
+  "downloadedEpisodes": {},
+  "localFiles": {
+    "icon": "folder",
+    "name": "Local Files",
+    "shouldEpisodeRemoveAfterPlay": false,
+    "shouldRepeat": false,
+    "episodes": []
+  }
+}

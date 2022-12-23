@@ -1,5 +1,7 @@
 [
   "media-extended",
   "templater-obsidian",
-  "customjs"
+  "customjs",
+  "buttons",
+  "podnotes"
 ]

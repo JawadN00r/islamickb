@@ -1,6 +1,6 @@
 function my_function(timestamp) {
   var aud = document.getElementById("myAudio");
-  this.addEventListener("click", function () {
+  self.addEventListener("click", function () {
     aud.currentTime = timestamp;
     aud.play();
   });
